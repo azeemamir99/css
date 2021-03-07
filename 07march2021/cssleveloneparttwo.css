@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/2a/d9/f2/2ad9f2c993e1c46b8c0d1e6c79c54529.jpg);
+    background-repeat: no-repeat;
+}
+div{
+    background-color: cornflowerblue;
+    border-color: red;
+    border-width: 7px;
+    border-style: double;
+}
+p{
+    color: darkgreen;
+    background-color: whitesmoke;
+}
+span{
+    background-color: black;
+    color: white;
+}

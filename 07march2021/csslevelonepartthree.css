@@ -1,0 +1,35 @@
+body{
+    font-size: larger;
+}
+div{
+    color: tomato;
+}
+.firstdiv{
+    color: blue;
+}
+.seconddiv{
+    color: green;
+}
+.testdiv{
+    text-decoration-line: line-through;
+}
+#idone{
+    text-decoration-line: underline;
+}
+#idtwo{
+    font-size:x-large;
+}
+#fontcheck{
+    color: indigo;
+    font-weight: bolder ;
+}
+h2+div{
+    border:5px dashed purple;
+}
+li a{
+    color: royalblue;
+}
+li a[href="https://500px.com/p/sambrockway/resource/1000000863"]{
+    color: seagreen;
+    border: 3px dashed turquoise;
+}
