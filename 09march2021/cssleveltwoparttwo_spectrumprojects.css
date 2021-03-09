@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    font-family: 'Iceland', cursive;
+}
+h3{
+    text-align: center;
+    font-family: 'Rouge Script', cursive;
+}
+.art{
+    margin: auto;
+    background-color: black;
+}
+td{
+    
+    width: 200px;
+    height: 450px;
+    border: 10px solid purple;
+    padding: 30px;
+}
+#one{
+    background-color: #EF476F;
+}
+#two{
+    background-color: #FFD166 ;
+}
+#three{
+    background-color: #06D6A0;
+}
+#four{
+    background-color: #118AB2;
+}
+#five{
+    background-color: #073B4C;
+}
